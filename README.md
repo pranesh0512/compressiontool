@@ -9,11 +9,7 @@ bash
 Copy code
 git clone git@github.com:pranesh0512/compressiontool.git
 
-cd huffman-encoding
-Install dependencies:
-bash
-Copy code
-pip install -r requirements.txt
+cd compressiontool
 
 
 Usage
