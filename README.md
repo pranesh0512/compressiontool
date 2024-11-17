@@ -1,16 +1,21 @@
 Setup and Usage
+
 Prerequisites
 Python 3.8 or higher.
+
 Installation
 Clone this repository:
 bash
 Copy code
 git clone git@github.com:pranesh0512/compressiontool.git
+
 cd huffman-encoding
 Install dependencies:
 bash
 Copy code
 pip install -r requirements.txt
+
+
 Usage
 Encoding a File
 Run the following command to encode a text file:
